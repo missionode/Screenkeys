@@ -19,3 +19,6 @@ Thumbs.db
 # Ignore output or render folders
 /output/
 /renders/
+
+#Ignore  upload from files without permission 
+/visual_experiments/null-20250118-WA0009.jpg
